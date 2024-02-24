@@ -1,2 +1,2 @@
 # testegit
-Criei este repositório para testar o git
+Criei este repositório para testar o git.
